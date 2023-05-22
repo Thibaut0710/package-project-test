@@ -1,13 +1,13 @@
 {
-  "name": "package-project-test-v5",
+  "name": "package-project-v5-test",
   "version": "1.0.0",
-  "description": "\"# package-project-test\"",
+  "description": "\"# package-project-v5-test\"",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-    "@thibaut0710_":"registry=https://npm.pkg.github.com"
+    "@thibaut0710_": "registry=https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
